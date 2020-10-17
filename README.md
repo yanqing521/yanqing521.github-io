@@ -1,2 +1,2 @@
-# yanqing521.github-io
+# yanqing521.github.io
 This is my new blog
